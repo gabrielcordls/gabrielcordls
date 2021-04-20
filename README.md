@@ -1,8 +1,2 @@
-### Hi there 👋
 
-<!--
-**gabrielcordls/gabrielcordls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<p align="center">
-  <img width="470" height="300" src="/gif-lofi.gif">
-</p>
+![gif-lofi](https://user-images.githubusercontent.com/72809297/115433198-a8657d80-a1dd-11eb-879c-1282f094d503.gif)
