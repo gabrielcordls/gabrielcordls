@@ -1,4 +1,6 @@
-## Hi! I'm Gabriel Cordeiro 🖐🏼
+## Hi! Welcome to my profile 🖐🏼
+
+### I'm Gabriel Cordeiro, currently 18 years old and passionate about programming.
 
 <div align="center">
   <a href="https://github.com/gabrielcordls">
