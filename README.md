@@ -1,4 +1,6 @@
-# Hi! I'm Gabriel Cordeiro, currently 18 years old and studying programming.
+# Hi! Welcome to my profile, I'm Gabriel Cordeiro 🖐🏼
+
+ I'm front-end developer, currently 18 years old and passionate about programming.
 
 
 <div align="center">
