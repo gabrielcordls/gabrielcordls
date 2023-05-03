@@ -1,6 +1,6 @@
 # Hi! Welcome to my profile, I'm Gabriel Cordeiro 🖐🏼
 
- I'm a front-end developer, currently have 19 years old and passionate about programming.
+ I'm a front-end developer, currently have 20 years old and passionate about programming.
 
 
 <div align="center">
